@@ -21,5 +21,5 @@ class orang {
 };
 
 class pelajar : public orang {
-    
+    public:
 }
