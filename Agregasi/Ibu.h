@@ -7,5 +7,7 @@
 using namespace std;
 
 
-class ibu {}
+class ibu {
+    public:
+}
    
