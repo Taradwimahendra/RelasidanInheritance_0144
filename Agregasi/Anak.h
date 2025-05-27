@@ -1,5 +1,8 @@
+#include<iostream>
+#include<string>
 #ifndef ANAK_H
 #define ANAH_H
+using namespace std;
 
 class anak{
     public :
